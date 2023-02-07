@@ -19,7 +19,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Movie Search App",
-        about: "Developed a movie search app to check that helps users search for latest movies",
+        about: "Developed a movie search app that helps users search for latest movies",
         tags:["React JS", "OMBD"],
         demo:"https://entertainmenthub.netlify.app/",
         github:"",
